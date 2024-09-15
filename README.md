@@ -28,7 +28,10 @@ Here are some screenshots of the application:
 <img src="./ux/home.png" height="200px" alt="Chatbot Homepage">
 
 ### Login Page
-<img src="./ux/login.png" height="200px" alt="Chatbot Login Page">
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 10px;">
+    <img src="./ux/login.png" height="200px" alt="Chat Interface" style="max-width: 100%; height: auto;">
+    <img src="./ux/login-p.png" height="200px" alt="Mobile View" style="max-width: 100%; height: auto;">
+</div>
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 10px;">
     <img src="./ux/chatbot.png" height="200px" alt="Chat Interface" style="max-width: 100%; height: auto;">
