@@ -9,6 +9,7 @@
 ### Deployment
 - **Frontend**: Deployed on **Vercel** at: [https://fruit-ai-clientt.vercel.app/](https://fruit-ai-clientt.vercel.app/)
 - **Backend**: Deployed on **Render** at: [https://fruitai-server3.onrender.com/](https://fruitai-server3.onrender.com/)
+- **Drive**: Deployed on **Render** at: [https://drive.google.com/file/d/13A8gPtuTM8gTDgGYTqvitIboVHFBcUW4/view](https://drive.google.com/file/d/13A8gPtuTM8gTDgGYTqvitIboVHFBcUW4/view)
 
 ## Project Description
 
@@ -20,8 +21,11 @@ Fruit.ai is a health manager application that provides users with various servic
 
 The frontend is built using **React** and the backend API is developed using **Django** with **MongoDB** for data storage. The project is fully responsive and mobile-friendly.
 
-## Preview
+## Login 
+--User Signup: New users can sign up and their details will be saved in MongoDB.
+--Dummy Login: Admin can log in using predefined credentials (admin and password).
 
+## Preview
 Here are some screenshots of the application:
 
 ### Homepage
