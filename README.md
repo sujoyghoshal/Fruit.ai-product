@@ -7,7 +7,7 @@
 </p>
 
 ### Deployment
-- **Frontend**: Deployed on **Vercel** at: [https://fruit-ai-client.vercel.app/](https://fruit-ai-client.vercel.app/)
+- **Frontend**: Deployed on **Vercel** at: [https://fruit-ai-clientt.vercel.app/](https://fruit-ai-clientt.vercel.app/)
 - **Backend**: Deployed on **Render** at: [https://fruitai-server3.onrender.com/](https://fruitai-server3.onrender.com/)
 
 ## Project Description
