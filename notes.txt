@@ -1,0 +1,22 @@
+http://localhost:8000/api/users/alluser
+
+
+faqs:
+http://localhost:8000/api/faqs/
+{
+  "question": "What is FastAPI?",
+  "answer": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints."
+}
+
+
+
+run code:
+uvicorn main:app --reload
+
+
+backend deploy link:
+ https://fruitai-server3.onrender.com/
+
+frontented deploy link:
+https://fruit-ai-client.vercel.app/
+
