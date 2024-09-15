@@ -6,6 +6,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" />
 </p>
 
+### Deployment
+- **Frontend**: Deployed on **Vercel** at: [https://fruit-ai-client.vercel.app/](https://fruit-ai-client.vercel.app/)
+- **Backend**: Deployed on **Render** at: [https://fruitai-server3.onrender.com/](https://fruitai-server3.onrender.com/)
+
 ## Project Description
 
 Fruit.ai is a health manager application that provides users with various services:
