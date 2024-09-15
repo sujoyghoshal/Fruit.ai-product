@@ -9,7 +9,7 @@
 ### Deployment
 - **Frontend**: Deployed on **Vercel** at: [https://fruit-ai-clientt.vercel.app/](https://fruit-ai-clientt.vercel.app/)
 - **Backend**: Deployed on **Render** at: [https://fruitai-server3.onrender.com/](https://fruitai-server3.onrender.com/)
-- **Drive**: Deployed on **Render** at: [https://drive.google.com/file/d/13A8gPtuTM8gTDgGYTqvitIboVHFBcUW4/view](https://drive.google.com/file/d/13A8gPtuTM8gTDgGYTqvitIboVHFBcUW4/view)
+- **Drive**: Download on **Render** at: [https://drive.google.com/file/d/13A8gPtuTM8gTDgGYTqvitIboVHFBcUW4/view](https://drive.google.com/file/d/13A8gPtuTM8gTDgGYTqvitIboVHFBcUW4/view)
 
 ## Project Description
 
