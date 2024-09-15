@@ -41,9 +41,24 @@ The frontend is built using **React** and the backend API is developed using **D
 - **MongoDB**: Database for storing FAQs.
 - **Django REST Framework**: For building APIs.
   
-### Deployment
-- **Frontend**: Deployed on **Vercel**.
-- **Backend**: Deployed on **Render**.
 
-## Project Structure
+## How to Run the Project
+### 1. Clone the Repository
+First, clone the repository to your local machine:
+```bash
+git clone https://github.com/your-username/fruit-ai.git
+cd fruit-ai
+
+cd client
+npm install
+npm start
+
+cd ../backend
+python -m venv venv
+python -m venv venv
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn main:app --reload
+uvicorn app.main:app --reload
 
