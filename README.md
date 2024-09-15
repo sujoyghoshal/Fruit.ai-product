@@ -20,6 +20,25 @@ Fruit.ai is a health manager application that provides users with various servic
 
 The frontend is built using **React** and the backend API is developed using **Django** with **MongoDB** for data storage. The project is fully responsive and mobile-friendly.
 
+## Preview
+
+Here are some screenshots of the application:
+
+### Homepage
+<img src="./ux/home.png" height="200px" alt="Chatbot Homepage">
+
+### Login Page
+<img src="./ux/login.png" height="200px" alt="Chatbot Login Page">
+
+### Chat Interface
+<img src="./ux/chatbot.png" height="200px" alt="Chat Interface">
+
+### Mobile Responsive
+<img src="./ux/login-p.png" height="200px" alt="Mobile View">
+
+### Another Feature
+<img src="./ux/code.png" height="200px" alt="Another Feature">
+
 ## Features
 
 - **Login Page**: User Interface with dummy UserId and Password to redirect to the homepage.
@@ -49,13 +68,11 @@ First, clone the repository to your local machine:
 git clone https://github.com/your-username/fruit-ai.git
 cd fruit-ai
 
-cd client
+cd ./client
 npm install
 npm start
 
-cd ../backend
-python -m venv venv
-python -m venv venv
+cd ./server
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
